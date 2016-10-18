@@ -1,0 +1,37 @@
+#JSinfo {
+  display: none;
+}
+
+#OpInfo {
+  display: none;
+}
+
+#Variables {
+  display: none;
+}
+
+#VariableNaming {
+  display: none;
+}
+
+#Functions {
+  display: none;
+}
+
+#Methods {
+  display: none;
+}
+
+li {
+  font-size: 20pt;
+}
+
+#VariableNaming li {
+  font-size: 15pt;
+  font-style: italic;
+}
+
+p {
+  font-size: 15pt;
+  font-style: italic;
+}
