@@ -1,37 +1,11 @@
-#JSinfo {
-  display: none;
+body {
+  text-align: center;
 }
 
-#OpInfo {
-  display: none;
+.row {
+  margin-top: 100px;
 }
 
-#Variables {
-  display: none;
-}
-
-#VariableNaming {
-  display: none;
-}
-
-#Functions {
-  display: none;
-}
-
-#Methods {
-  display: none;
-}
-
-li {
-  font-size: 20pt;
-}
-
-#VariableNaming li {
-  font-size: 15pt;
-  font-style: italic;
-}
-
-p {
-  font-size: 15pt;
-  font-style: italic;
+img {
+  width: 50%;
 }
