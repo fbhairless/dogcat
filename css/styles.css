@@ -9,3 +9,13 @@ body {
 img {
   width: 50%;
 }
+
+#meowing {
+  font-size: 100pt;
+  display: none;
+}
+
+#barking {
+  font-size: 100pt;
+  display: none;
+}
